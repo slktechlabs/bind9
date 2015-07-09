@@ -177,17 +177,6 @@ clear
 
 printf "Script Finished Successful :-D\n"
 printf "\n"
-printf "now use any browser and type http://nagios_server_public_ip/nagios \n"
-printf "-------------------------- \n"
-printf "USERNAME : nagiosadmin \n"
-printf "PASSWORD : THAT U HAVE ENTER AT TIME OF RUNNING SCRIPT \n"
-printf "-------------------------- \n"
-printf "now use any browser and type http://nagios_server_public_ip/nagios \n"
-printf "\n"
-printf "if u get error processing php5 (--configure): \n"
-printf "USE BELOW COMMAND & RE-EXECUTIVE THE SCRIPT AND REBOOT SYSTEM \n"
-printf "sudo apt-get remove --purge php5-common php5-cli \n"
-printf "\n"
 printf "T: @ackbote\n"
 printf "E:hel.venket@gmail.com\n"
 printf "M:+918866442277\n"
@@ -197,6 +186,5 @@ printf "\n"
 printf "\n"
 
 sleep 7s
-
 exit
 
